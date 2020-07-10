@@ -1,0 +1,11 @@
+.covidImg{
+    width: 191px;
+    height: 62px;
+}
+.mainText{
+    text-align: center;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+    font-weight: bold !important;
+    letter-spacing: 5px !important;
+}
